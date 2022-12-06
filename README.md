@@ -1,4 +1,4 @@
-# Contextual Explainable Video Representation:\\Human Perception-based Understanding
+# Contextual Explainable Video Representation: Human Perception-based Understanding
 
 In this repo, we re-collect a series of our existing works on the contextual explainable video representation.
 
