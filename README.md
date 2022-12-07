@@ -2,7 +2,7 @@
 
 In this repo, we re-collect a series of our existing works on the contextual explainable video representation.
 
-Those works are as follows:
+Our works on Temporal Action Proposals Generation are summarized as follows:
 
 - Agent-Environment Network (AEN, published in *ICASSP 2021*):
   - Paper: https://ieeexplore.ieee.org/abstract/document/9415101/
@@ -17,3 +17,12 @@ Those works are as follows:
   - Paper: https://link.springer.com/article/10.1007/s11263-022-01702-9
   - ArXiv: https://arxiv.org/abs/2210.02578
   - Source code: https://github.com/UARK-AICV/AOE-Net
+
+Our works on Video Paragraph Captioning are summarized as follows:
+- Vision-Language with Contrastive Learning for Coherent Video Paragraph Captioning (VLCap, published in *ICIP 2022*):
+  - Paper: https://ieeexplore.ieee.org/abstract/document/9897766
+  - ArXiv: https://arxiv.org/abs/2206.12972
+  - Source code: https://github.com/UARK-AICV/VLCAP
+- VLTinT: Visual-Linguistic Transformer-in-Transformer for Coherent Video Paragraph Captioning (VlLTinT, published in *AAAI 2023*):
+  - ArXiv: https://arxiv.org/abs/2211.15103
+  - Source code: https://github.com/UARK-AICV/VLTinT
